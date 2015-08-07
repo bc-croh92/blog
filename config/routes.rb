@@ -27,7 +27,7 @@ Rails.application.routes.draw do
   #       post 'toggle'
   #     end
   #
-  #     collection do
+  #     collection doa
   #       get 'sold'
   #     end
   #   end
